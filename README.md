@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @curiousphoe
+- 👋 Hi, I’m Phoenix @curiousphoe
 - 👀 I’m interested in gardening, boxing, science, and learning new knowledge.
 - 🌱 I’m currently learning how to code with Python.
 - 💞️ I’m looking to collaborate on nothing.
